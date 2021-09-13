@@ -5,6 +5,6 @@ Github Flavoured Markdown
   - [ ] Images
   - [ ] Imojes
   - [ ] Tables <br>
-[This is an external linl](https://github.com/en)<br>
+[This is an external link](https://github.com/en)<br>
 [This is the Pic folder ](https://github.com/mohammedatwan/authoring/blob/main/images/)
 
