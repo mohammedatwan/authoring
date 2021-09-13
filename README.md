@@ -5,3 +5,4 @@ Github Flavoured Markdown
   - [ ] Images
   - [ ] Imojes
   - [ ] Tables
+![This is the cat Pic ](https://github.com/mohammedatwan/authoring/blob/main/images/3683.jpg)
